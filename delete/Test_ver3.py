@@ -1,0 +1,20 @@
+data ={ 'destiation':'xxxx',
+ 'events': [  {  'message': {  'id': '100001',
+                                 'text': 'Hello, world',
+                                 'type': 'text'},
+                   'replyToken': '00000000000000000000000000000000',
+                   'source': {  'type': 'user',
+                                'userId': 'Udeadbeefdeadbeefdeadbeefdeadbeef'},
+                   'timestamp': 1568454038097,
+                   'type': 'message'},
+                {  'message': {  'id': '100002',
+                                 'packageId': '1',
+                                 'stickerId': '1',
+                                 'type': 'sticker'},
+                   'replyToken': 'ffffffffffffffffffffffffffffffff',
+                   'source': {  'type': 'user',
+                                'userId': 'Udeadbeefdeadbeefdeadbeefdeadbeef'},
+                   'timestamp': 1568454038097,
+                   'type': 'message'}]}
+
+}
