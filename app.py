@@ -103,6 +103,6 @@ def RegisRichmenu(event):
     #####reply message wien user follow 
     line_bot_api.reply_message(event.reply_token,messages={text,text2})
 
-#if __name__ == "__main__":
-#    app.run(port=200)
+if __name__ == "__main__":
+   app.run(port=200)
 
